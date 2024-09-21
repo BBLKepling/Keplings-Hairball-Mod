@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <JobDef>
+    <defName>BBLK_HairballVomit</defName>
+    <driverClass>Keplings_Hairball_Mod.JobDriver_HairballVomit</driverClass>
+    <reportString>vomiting.</reportString>
+    <playerInterruptible>false</playerInterruptible>
+    <casualInterruptible>false</casualInterruptible>
+    <suspendable>false</suspendable>
+  </JobDef>
+
+  <JobDef>
+    <defName>BBLK_TargetedVomit</defName>
+    <driverClass>Keplings_Hairball_Mod.JobDriver_TargetedVomit</driverClass>
+    <reportString>vomiting.</reportString>
+    <playerInterruptible>false</playerInterruptible>
+    <casualInterruptible>false</casualInterruptible>
+    <suspendable>false</suspendable>
+    <modExtensions>
+      <li Class="Keplings_Hairball_Mod.CatList_ModExtension">
+        <catSmall>
+	      <li>Cat</li>
+	      <li MayRequire="VanillaExpanded.VanillaAnimalsExpanded">AEXP_CatAbyssinian</li>
+	      <li MayRequire="VanillaExpanded.VanillaAnimalsExpanded">AEXP_CatBengal</li>
+	      <li MayRequire="VanillaExpanded.VanillaAnimalsExpanded">AEXP_CatBritishShorthair</li>
+	      <li MayRequire="VanillaExpanded.VanillaAnimalsExpanded">AEXP_CatMaineCoon</li>
+	      <li MayRequire="VanillaExpanded.VanillaAnimalsExpanded">AEXP_CatMunchkin</li>
+	      <li MayRequire="VanillaExpanded.VanillaAnimalsExpanded">AEXP_CatNorwegianForest</li>
+	      <li MayRequire="VanillaExpanded.VanillaAnimalsExpanded">AEXP_CatPersian</li>
+	      <li MayRequire="VanillaExpanded.VanillaAnimalsExpanded">AEXP_CatSiamese</li>
+	      <li MayRequire="VanillaExpanded.VanillaAnimalsExpanded">AEXP_CatSomali</li>
+	      <li MayRequire="VanillaExpanded.VanillaAnimalsExpanded">AEXP_CatSphynx</li>
+        </catSmall>
+        <catBig>
+	      <li>Cougar</li>
+	      <li>Panther</li>
+	      <li>Lynx</li>
+	      <li MayRequire="VanillaExpanded.VanillaAnimalsExpanded">AEXP_Cheetah</li>
+	      <li MayRequire="VanillaExpanded.VanillaAnimalsExpanded">AEXP_Lion</li>
+	      <li MayRequire="VanillaExpanded.VanillaAnimalsExpanded">AEXP_Jaguar</li>
+	      <li MayRequire="VanillaExpanded.VanillaAnimalsExpanded">AEXP_Tiger</li>
+	      <li MayRequire="VanillaExpanded.VAERoy">VAERoy_RoyalTiger</li>
+	      <li MayRequire="sarg.alphaanimals">AA_ArcticLion</li>
+	      <li MayRequire="sarg.alphaanimals">AA_SandLion</li>
+        </catBig>
+      </li>
+    </modExtensions>
+  </JobDef>
+
+</Defs>

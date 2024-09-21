@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+  <Operation Class="PatchOperationInsert">
+    <xpath>Defs/ThinkTreeDef[defName="Animal"]/thinkRoot/subNodes/li[insertTag="Animal_PreWander"]</xpath>
+    <order>Append</order>
+    <value>
+      <li Class="ThinkNode_ChancePerHour_Constant">
+        <mtbDays>3</mtbDays>
+        <subNodes>
+          <li Class="Keplings_Hairball_Mod.JobGiver_CatVomit" />
+        </subNodes>
+      </li>
+    </value>
+  </Operation>
+
+</Patch>
