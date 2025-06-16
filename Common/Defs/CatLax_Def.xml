@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <ThingDef ParentName="DrugPillBase">
+    <defName>BBLK_CatLax</defName>
+    <label>Cat Lax</label>
+    <description>A palatable formula for the elimination and prevention of hair balls in cats.\n\nFor use in cats only, not for human consumption.</description>
+    <descriptionHyperlinks>
+      <HediffDef>BBLK_CatLax</HediffDef>
+    </descriptionHyperlinks>
+    <graphicData>
+      <texPath>Things/BBLK_CatLax</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <rotatable>false</rotatable>
+    <statBases>
+      <DeteriorationRate>0.5</DeteriorationRate>
+      <MarketValue>1</MarketValue>
+      <Mass>0.1</Mass>
+      <Flammability>0.5</Flammability>
+      <Nutrition>0.01</Nutrition>
+    </statBases>
+    <ingestible>
+      <drugCategory>Medical</drugCategory>
+      <canAutoSelectAsFoodForCaravan>false</canAutoSelectAsFoodForCaravan>
+      <outcomeDoers>
+        <li Class="IngestionOutcomeDoer_GiveHediff">
+          <hediffDef>BBLK_CatLax</hediffDef>
+          <severity>1.00</severity>
+        </li>
+      </outcomeDoers>
+    </ingestible>
+    <comps>
+      <li Class="CompProperties_Drug">
+        <listOrder>1001</listOrder>
+      </li>
+      <!-- For Human/Insect meat -->
+      <li Class="CompProperties_Ingredients">
+        <noIngredientsFoodKind>Meat</noIngredientsFoodKind>
+        <splitTransferableFoodKind>true</splitTransferableFoodKind>
+      </li>
+    </comps>
+		<modExtensions>
+      <!-- Dehydration -->
+			<li MayRequire="Dubwise.DubsBadHygiene" Class="DubsBadHygiene.WaterExt">
+				<water>-0.10</water>
+				<UseForWashing>false</UseForWashing>
+				<SeekForThirst>false</SeekForThirst>
+			</li>
+		</modExtensions>
+  </ThingDef>
+
+  <RecipeDef>
+    <defName>BBLK_Make_CatLax</defName>
+    <label>make Cat Lax x5</label>
+    <description>Make Cat Lax x5.</description>
+    <jobString>Making Cat Lax x5.</jobString>
+    <workSpeedStat>DrugSynthesisSpeed</workSpeedStat>
+    <workSkill>Intellectual</workSkill>
+    <effectWorking>Cook</effectWorking>
+    <allowMixingIngredients>true</allowMixingIngredients>
+    <workAmount>500</workAmount>
+    <recipeUsers>
+      <li>DrugLab</li>
+    </recipeUsers>
+    <ingredients>
+      <!-- Barley Malt Syrup $1.10 -->
+      <li>
+        <filter>
+          <categories>
+            <li>PlantFoodRaw</li>
+          </categories>
+        </filter>
+        <count>1</count>
+      </li>
+      <!-- Cod Liver Oil $2.00 -->
+      <li>
+        <filter>
+          <categories>
+            <li>MeatRaw</li>
+          </categories>
+        </filter>
+        <count>1</count>
+      </li>
+      <!-- White Petrolatum $2.30 -->
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Chemfuel</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <categories>
+        <li>PlantFoodRaw</li>
+        <li>MeatRaw</li>
+      </categories>
+      <thingDefs>
+        <li>Chemfuel</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <defaultIngredientFilter>
+      <categories>
+        <li>PlantFoodRaw</li>
+        <li>MeatRaw</li>
+      </categories>
+      <thingDefs>
+        <li>Chemfuel</li>
+      </thingDefs>
+    </defaultIngredientFilter>
+    <products>
+      <!-- $5.40 -->
+      <BBLK_CatLax>5</BBLK_CatLax>
+    </products>
+  </RecipeDef>
+
+  <HediffDef>
+    <defName>BBLK_CatLax</defName>
+    <label>Cat Lax</label>
+    <description>A dose of Cat Lax to eliminate and prevent hair balls.</description>
+    <hediffClass>HediffWithComps</hediffClass>
+    <isBad>false</isBad>
+    <maxSeverity>1.0</maxSeverity>
+    <initialSeverity>1</initialSeverity>
+    <comps>
+      <li Class="HediffCompProperties_SeverityPerDay">
+        <severityPerDay>-0.40</severityPerDay>
+        <showHoursToRecover>true</showHoursToRecover>
+      </li>
+    </comps>
+    <stages>
+      <li>
+				<statOffsets>
+					<BladderRateMultiplier MayRequireAnyOf="Dubwise.DubsBadHygiene,Dubwise.DubsBadHygiene.Lite">0.05</BladderRateMultiplier>
+				</statOffsets>
+      </li>
+      <li>
+        <minSeverity>0.20</minSeverity>
+				<statOffsets>
+					<BladderRateMultiplier MayRequireAnyOf="Dubwise.DubsBadHygiene,Dubwise.DubsBadHygiene.Lite">0.15</BladderRateMultiplier>
+				</statOffsets>
+      </li>
+      <li>
+        <minSeverity>0.40</minSeverity>
+				<statOffsets>
+					<BladderRateMultiplier MayRequireAnyOf="Dubwise.DubsBadHygiene,Dubwise.DubsBadHygiene.Lite">0.25</BladderRateMultiplier>
+				</statOffsets><!--
+				<hediffGivers>
+					<li MayRequire="Dubwise.DubsBadHygiene" Class="HediffGiver_Random">
+					  <hediff>DBHDehydration</hediff>
+					  <mtbDays>10</mtbDays>
+					  <partsToAffect>
+					    <li>Brain</li>
+					  </partsToAffect>
+					</li>
+				</hediffGivers>-->
+      </li>
+      <li>
+        <minSeverity>0.60</minSeverity>
+				<statOffsets>
+					<BladderRateMultiplier MayRequireAnyOf="Dubwise.DubsBadHygiene,Dubwise.DubsBadHygiene.Lite">0.15</BladderRateMultiplier>
+				</statOffsets>
+      </li>
+      <li>
+        <minSeverity>0.80</minSeverity>
+				<statOffsets>
+					<BladderRateMultiplier MayRequireAnyOf="Dubwise.DubsBadHygiene,Dubwise.DubsBadHygiene.Lite">0.05</BladderRateMultiplier>
+				</statOffsets>
+      </li>
+    </stages>
+  </HediffDef>
+
+  <ThoughtDef>
+    <defName>BBLK_CatLax</defName>
+    <workerClass>ThoughtWorker_Hediff</workerClass>
+    <hediff>BBLK_CatLax</hediff>
+    <validWhileDespawned>true</validWhileDespawned>
+    <developmentalStageFilter>Baby, Child, Adult</developmentalStageFilter>
+    <stages>
+      <li>
+        <visible>false</visible>
+      </li>
+      <li>
+        <visible>false</visible>
+      </li>
+      <li>
+        <visible>false</visible>
+      </li>
+      <li>
+        <label>ate Cat Lax</label>
+        <description>I can still taste the Cat Lax a little.</description>
+        <baseMoodEffect>-2</baseMoodEffect>
+      </li>
+      <li>
+        <label>ate Cat Lax</label>
+        <description>I ate Cat Lax, it tasted like fishy earwax.</description>
+        <baseMoodEffect>-5</baseMoodEffect>
+      </li>
+    </stages>
+    <nullifyingGenes>
+      <li MayRequire="Ludeon.RimWorld.Biotech">Furskin</li>
+    </nullifyingGenes>
+  </ThoughtDef>
+
+</Defs>

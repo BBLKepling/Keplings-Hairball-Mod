@@ -10,3 +10,5 @@ C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Keplings-Hairball-Mo
 C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Keplings-Hairball-Mod\1.5\Source\Keplings Hairball Mod\obj\Debug\Keplings Hairball Mod.csproj.AssemblyReference.cache
 C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Keplings-Hairball-Mod\1.5\Source\Keplings Hairball Mod\obj\Debug\Keplings Hairball Mod.csproj.CoreCompileInputs.cache
 C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Keplings-Hairball-Mod\1.5\Source\Keplings Hairball Mod\obj\Debug\Keplings Hairball Mod.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Keplings-Hairball-Mod\1.5\Assemblies\Keplings Hairball Mod.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Keplings-Hairball-Mod\1.5\Source\Keplings Hairball Mod\obj\Debug\Keplings Hairball Mod.pdb

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <BBLK_HairballSettings>Kepling's Hairball Mod Settings</BBLK_HairballSettings>
+
+  <BBLK_Hairball_Targeted_Change_Label>Targeted Vomit Chance</BBLK_Hairball_Targeted_Change_Label>
+  <BBLK_Hairball_Targeted_Change_ToolTip>Colony cats may ignore zones to specifically vomit on a bed, just like in real life. With this set to zero cats will always vomit in place.</BBLK_Hairball_Targeted_Change_ToolTip>
+
+  <BBLK_Hairball_BigCats_Label>Include Big Cats</BBLK_Hairball_BigCats_Label>
+  <BBLK_Hairball_BigCats_ToolTip>Big cats can have hairballs too.</BBLK_Hairball_BigCats_ToolTip>
+
+  <BBLK_CatLax_Prevent>Cat Lax has prevented {PAWN} from having a hair ball.</BBLK_CatLax_Prevent>
+
+</LanguageData>

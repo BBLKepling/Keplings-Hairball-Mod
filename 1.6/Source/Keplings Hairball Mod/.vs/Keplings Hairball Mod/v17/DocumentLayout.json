@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Keplings-Hairball-Mod\\1.6\\Source\\Keplings Hairball Mod\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5833C167-C929-4912-AF93-560F3A564E41}|Keplings Hairball Mod.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Keplings-Hairball-Mod\\1.6\\Source\\Keplings Hairball Mod\\toils_gotopukespot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5833C167-C929-4912-AF93-560F3A564E41}|Keplings Hairball Mod.csproj|solutionrelative:toils_gotopukespot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5833C167-C929-4912-AF93-560F3A564E41}|Keplings Hairball Mod.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\keplings-hairball-mod\\1.6\\source\\keplings hairball mod\\jobgiver_catvomit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5833C167-C929-4912-AF93-560F3A564E41}|Keplings Hairball Mod.csproj|solutionrelative:jobgiver_catvomit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5833C167-C929-4912-AF93-560F3A564E41}|Keplings Hairball Mod.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Keplings-Hairball-Mod\\1.6\\Source\\Keplings Hairball Mod\\jobdriver_targetedvomit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5833C167-C929-4912-AF93-560F3A564E41}|Keplings Hairball Mod.csproj|solutionrelative:jobdriver_targetedvomit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5833C167-C929-4912-AF93-560F3A564E41}|Keplings Hairball Mod.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Keplings-Hairball-Mod\\1.6\\Source\\Keplings Hairball Mod\\jobdriver_hairballvomit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5833C167-C929-4912-AF93-560F3A564E41}|Keplings Hairball Mod.csproj|solutionrelative:jobdriver_hairballvomit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5833C167-C929-4912-AF93-560F3A564E41}|Keplings Hairball Mod.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Keplings-Hairball-Mod\\1.6\\Source\\Keplings Hairball Mod\\internaldefof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5833C167-C929-4912-AF93-560F3A564E41}|Keplings Hairball Mod.csproj|solutionrelative:internaldefof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5833C167-C929-4912-AF93-560F3A564E41}|Keplings Hairball Mod.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Keplings-Hairball-Mod\\1.6\\Source\\Keplings Hairball Mod\\hairballutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5833C167-C929-4912-AF93-560F3A564E41}|Keplings Hairball Mod.csproj|solutionrelative:hairballutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5833C167-C929-4912-AF93-560F3A564E41}|Keplings Hairball Mod.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Keplings-Hairball-Mod\\1.6\\Source\\Keplings Hairball Mod\\hairballsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5833C167-C929-4912-AF93-560F3A564E41}|Keplings Hairball Mod.csproj|solutionrelative:hairballsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5833C167-C929-4912-AF93-560F3A564E41}|Keplings Hairball Mod.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Keplings-Hairball-Mod\\1.6\\Source\\Keplings Hairball Mod\\hairballmod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5833C167-C929-4912-AF93-560F3A564E41}|Keplings Hairball Mod.csproj|solutionrelative:hairballmod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5833C167-C929-4912-AF93-560F3A564E41}|Keplings Hairball Mod.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Keplings-Hairball-Mod\\1.6\\Source\\Keplings Hairball Mod\\cattarget_modextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5833C167-C929-4912-AF93-560F3A564E41}|Keplings Hairball Mod.csproj|solutionrelative:cattarget_modextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5833C167-C929-4912-AF93-560F3A564E41}|Keplings Hairball Mod.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Keplings-Hairball-Mod\\1.6\\Source\\Keplings Hairball Mod\\catlist_modextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5833C167-C929-4912-AF93-560F3A564E41}|Keplings Hairball Mod.csproj|solutionrelative:catlist_modextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Keplings Hairball Mod||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Childrens-Books-main\\1.5\\Source\\Childrens Books\\JobDriver_BedTimeListen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5833C167-C929-4912-AF93-560F3A564E41}|Keplings Hairball Mod.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\keplings-hairball-mod\\1.6\\source\\keplings hairball mod\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HairballMod.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Keplings-Hairball-Mod\\1.6\\Source\\Keplings Hairball Mod\\HairballMod.cs",
+              "RelativeDocumentMoniker": "HairballMod.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Keplings-Hairball-Mod\\1.6\\Source\\Keplings Hairball Mod\\HairballMod.cs",
+              "RelativeToolTip": "HairballMod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T06:09:52.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InternalDefOf.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Keplings-Hairball-Mod\\1.6\\Source\\Keplings Hairball Mod\\InternalDefOf.cs",
+              "RelativeDocumentMoniker": "InternalDefOf.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Keplings-Hairball-Mod\\1.6\\Source\\Keplings Hairball Mod\\InternalDefOf.cs",
+              "RelativeToolTip": "InternalDefOf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T08:27:26.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HairballUtility.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Keplings-Hairball-Mod\\1.6\\Source\\Keplings Hairball Mod\\HairballUtility.cs",
+              "RelativeDocumentMoniker": "HairballUtility.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Keplings-Hairball-Mod\\1.6\\Source\\Keplings Hairball Mod\\HairballUtility.cs",
+              "RelativeToolTip": "HairballUtility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T04:06:54.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CatTarget_ModExtension.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Keplings-Hairball-Mod\\1.6\\Source\\Keplings Hairball Mod\\CatTarget_ModExtension.cs",
+              "RelativeDocumentMoniker": "CatTarget_ModExtension.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Keplings-Hairball-Mod\\1.6\\Source\\Keplings Hairball Mod\\CatTarget_ModExtension.cs",
+              "RelativeToolTip": "CatTarget_ModExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T08:27:26.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HairballSettings.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Keplings-Hairball-Mod\\1.6\\Source\\Keplings Hairball Mod\\HairballSettings.cs",
+              "RelativeDocumentMoniker": "HairballSettings.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Keplings-Hairball-Mod\\1.6\\Source\\Keplings Hairball Mod\\HairballSettings.cs",
+              "RelativeToolTip": "HairballSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T08:27:26.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JobDriver_HairballVomit.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Keplings-Hairball-Mod\\1.6\\Source\\Keplings Hairball Mod\\JobDriver_HairballVomit.cs",
+              "RelativeDocumentMoniker": "JobDriver_HairballVomit.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Keplings-Hairball-Mod\\1.6\\Source\\Keplings Hairball Mod\\JobDriver_HairballVomit.cs",
+              "RelativeToolTip": "JobDriver_HairballVomit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T08:27:26.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JobDriver_TargetedVomit.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Keplings-Hairball-Mod\\1.6\\Source\\Keplings Hairball Mod\\JobDriver_TargetedVomit.cs",
+              "RelativeDocumentMoniker": "JobDriver_TargetedVomit.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Keplings-Hairball-Mod\\1.6\\Source\\Keplings Hairball Mod\\JobDriver_TargetedVomit.cs",
+              "RelativeToolTip": "JobDriver_TargetedVomit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T08:27:26.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JobGiver_CatVomit.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Keplings-Hairball-Mod\\1.6\\Source\\Keplings Hairball Mod\\JobGiver_CatVomit.cs",
+              "RelativeDocumentMoniker": "JobGiver_CatVomit.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Keplings-Hairball-Mod\\1.6\\Source\\Keplings Hairball Mod\\JobGiver_CatVomit.cs",
+              "RelativeToolTip": "JobGiver_CatVomit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T08:27:26.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Toils_GoToPukeSpot.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Keplings-Hairball-Mod\\1.6\\Source\\Keplings Hairball Mod\\Toils_GoToPukeSpot.cs",
+              "RelativeDocumentMoniker": "Toils_GoToPukeSpot.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Keplings-Hairball-Mod\\1.6\\Source\\Keplings Hairball Mod\\Toils_GoToPukeSpot.cs",
+              "RelativeToolTip": "Toils_GoToPukeSpot.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T08:27:26.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CatList_ModExtension.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Keplings-Hairball-Mod\\1.6\\Source\\Keplings Hairball Mod\\CatList_ModExtension.cs",
+              "RelativeDocumentMoniker": "CatList_ModExtension.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Keplings-Hairball-Mod\\1.6\\Source\\Keplings Hairball Mod\\CatList_ModExtension.cs",
+              "RelativeToolTip": "CatList_ModExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T08:27:26.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Keplings Hairball Mod",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Keplings-Hairball-Mod\\1.6\\Source\\Keplings Hairball Mod\\Keplings Hairball Mod.csproj",
+              "RelativeDocumentMoniker": "Keplings Hairball Mod.csproj",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Keplings-Hairball-Mod\\1.6\\Source\\Keplings Hairball Mod\\Keplings Hairball Mod.csproj",
+              "RelativeToolTip": "Keplings Hairball Mod.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-16T22:30:03.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JobDriver_BedTimeListen.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Childrens-Books-main\\1.5\\Source\\Childrens Books\\JobDriver_BedTimeListen.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Childrens-Books-main\\1.5\\Source\\Childrens Books\\JobDriver_BedTimeListen.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Childrens-Books-main\\1.5\\Source\\Childrens Books\\JobDriver_BedTimeListen.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Childrens-Books-main\\1.5\\Source\\Childrens Books\\JobDriver_BedTimeListen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:22:23.945Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
