@@ -37,6 +37,8 @@
 	      <li>Cougar</li>
 	      <li>Panther</li>
 	      <li>Lynx</li>
+	      <li MayRequire="Ludeon.RimWorld.Odyssey">Cat_Scimitar</li>
+	      <li MayRequire="Ludeon.RimWorld.Odyssey">Tiger</li>
 	      <li MayRequire="VanillaExpanded.VanillaAnimalsExpanded">AEXP_Cheetah</li>
 	      <li MayRequire="VanillaExpanded.VanillaAnimalsExpanded">AEXP_Lion</li>
 	      <li MayRequire="VanillaExpanded.VanillaAnimalsExpanded">AEXP_Jaguar</li>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+<Operation Class="PatchOperationFindMod">
+  <mods>
+    <li>Odyssey</li>
+  </mods>
+  <match Class="PatchOperationFindMod">
+    <mods>
+      <li>Vanilla Animals Expanded</li>
+    </mods>
+    <match Class="PatchOperationRemove">
+      <xpath>Defs/JobDef[defName="BBLK_TargetedVomit"]/modExtensions/li[@Class="Keplings_Hairball_Mod.CatList_ModExtension"]/catBig/li[.="AEXP_Tiger"]</xpath>
+    </match>
+  </match>
+</Operation>
+
+</Patch>
