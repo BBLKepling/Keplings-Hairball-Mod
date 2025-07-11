@@ -31,6 +31,7 @@
 	      <li MayRequire="VanillaExpanded.VanillaAnimalsExpanded">AEXP_CatSiamese</li>
 	      <li MayRequire="VanillaExpanded.VanillaAnimalsExpanded">AEXP_CatSomali</li>
 	      <li MayRequire="VanillaExpanded.VanillaAnimalsExpanded">AEXP_CatSphynx</li>
+	      <li MayRequire="Erin.FluffyFauna">ERN_PallasCat</li>
         </catSmall>
         <catBig>
 	      <li>Cougar</li>
@@ -43,6 +44,7 @@
 	      <li MayRequire="VanillaExpanded.VAERoy">VAERoy_RoyalTiger</li>
 	      <li MayRequire="sarg.alphaanimals">AA_ArcticLion</li>
 	      <li MayRequire="sarg.alphaanimals">AA_SandLion</li>
+	      <li MayRequire="Erin.FluffyFauna">ERN_SnowLeopard</li>
 	      <li MayRequire="psyche.kemomimihouse">miko</li>
         </catBig>
       </li>
