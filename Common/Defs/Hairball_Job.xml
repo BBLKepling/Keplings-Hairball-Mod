@@ -31,7 +31,18 @@
 	      <li MayRequire="VanillaExpanded.VanillaAnimalsExpanded">AEXP_CatSiamese</li>
 	      <li MayRequire="VanillaExpanded.VanillaAnimalsExpanded">AEXP_CatSomali</li>
 	      <li MayRequire="VanillaExpanded.VanillaAnimalsExpanded">AEXP_CatSphynx</li>
+	      <li MayRequire="VanillaExpanded.VGeneticsE">GR_Chickencat</li>
+	      <li MayRequire="VanillaExpanded.VGeneticsE">GR_Catalope</li>
+	      <li MayRequire="VanillaExpanded.VGeneticsE">GR_Catbear</li>
+	      <li MayRequire="VanillaExpanded.VGeneticsE">GR_Catchicken</li>
+	      <li MayRequire="VanillaExpanded.VGeneticsE">GR_Catffalo</li>
+	      <li MayRequire="VanillaExpanded.VGeneticsE">GR_Catman</li>
+	      <li MayRequire="VanillaExpanded.VGeneticsE">GR_Catrabbit</li>
+	      <li MayRequire="VanillaExpanded.VGeneticsE">GR_Catwolf</li>
+	      <li MayRequire="VanillaExpanded.VGeneticsE">GR_Rabbitcat</li>
+	      <li MayRequire="sarg.alphaanimals">AA_PhoenixOwlcat</li>
 	      <li MayRequire="Erin.FluffyFauna">ERN_PallasCat</li>
+	      <li MayRequire="SM.SpiderMaoDie">SpiderMaoDie</li>
         </catSmall>
         <catBig>
 	      <li>Cougar</li>
@@ -44,10 +55,25 @@
 	      <li MayRequire="VanillaExpanded.VanillaAnimalsExpanded">AEXP_Jaguar</li>
 	      <li MayRequire="VanillaExpanded.VanillaAnimalsExpanded">AEXP_Tiger</li>
 	      <li MayRequire="VanillaExpanded.VAERoy">VAERoy_RoyalTiger</li>
+	      <li MayRequire="VanillaExpanded.VGeneticsE">GR_Cathorse</li>
+	      <li MayRequire="VanillaExpanded.VGeneticsE">GR_Boomcat</li>
+	      <li MayRequire="VanillaExpanded.VGeneticsE">GR_Wolfcat</li>
+	      <li MayRequire="VanillaExpanded.VGeneticsE">GR_Thrumbocat</li>
+	      <li MayRequire="VanillaExpanded.VGeneticsE">GR_Mancat</li>
+	      <li MayRequire="VanillaExpanded.VGeneticsE">GR_Spidercat</li>
+	      <li MayRequire="VanillaExpanded.VGeneticsE">GR_Mechacat</li>
+	      <li MayRequire="VanillaExpanded.VGeneticsE">GR_Muffalocat</li>
+	      <li MayRequire="VanillaExpanded.VGeneticsE">GR_ParagonFeline</li>
+	      <li MayRequire="VanillaExpanded.VGeneticsE">GR_Snakecat</li>
+	      <li MayRequire="VanillaExpanded.VGeneticsE">GR_Bearcat</li>
 	      <li MayRequire="sarg.alphaanimals">AA_ArcticLion</li>
 	      <li MayRequire="sarg.alphaanimals">AA_SandLion</li>
+	      <li MayRequire="sarg.alphaanimals">AA_FrostLynx</li>
+	      <li MayRequire="sarg.alphaanimals">AA_CrystallineCaracal</li>
+	      <li MayRequire="sarg.alphaanimals">AA_Genix</li>
 	      <li MayRequire="Erin.FluffyFauna">ERN_SnowLeopard</li>
 	      <li MayRequire="psyche.kemomimihouse">miko</li>
+	      <li MayRequire="1013.VK.Zero.zhizhiZZ">Tentaclecat</li>
         </catBig>
       </li>
     </modExtensions>
