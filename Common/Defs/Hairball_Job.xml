@@ -74,6 +74,7 @@
 	      <li MayRequire="Erin.FluffyFauna">ERN_SnowLeopard</li>
 	      <li MayRequire="psyche.kemomimihouse">miko</li>
 	      <li MayRequire="1013.VK.Zero.zhizhiZZ">Tentaclecat</li>
+	      <li MayRequire="Oblitus.HousekeeperAssistanceCat">HousekeeperCat</li>
         </catBig>
       </li>
     </modExtensions>
