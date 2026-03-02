@@ -43,6 +43,7 @@
 	      <li MayRequire="sarg.alphaanimals">AA_PhoenixOwlcat</li>
 	      <li MayRequire="Erin.FluffyFauna">ERN_PallasCat</li>
 	      <li MayRequire="SM.SpiderMaoDie">SpiderMaoDie</li>
+	      <li MayRequire="TOLGRIM.Meowl.Race">Meowl_Race</li>
         </catSmall>
         <catBig>
 	      <li>Cougar</li>
