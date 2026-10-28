@@ -1,0 +1,13 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Keplings-Hairball-Mod\1.7\Assemblies\Debug\Keplings Hairball Mod.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Keplings-Hairball-Mod\1.7\Assemblies\Debug\Keplings Hairball Mod.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Keplings-Hairball-Mod\1.7\Source\Keplings Hairball Mod\obj\Debug\Keplings Hairball Mod.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Keplings-Hairball-Mod\1.7\Source\Keplings Hairball Mod\obj\Debug\Keplings Hairball Mod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Keplings-Hairball-Mod\1.7\Source\Keplings Hairball Mod\obj\Debug\Keplings Hairball Mod.AssemblyInfoInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Keplings-Hairball-Mod\1.7\Source\Keplings Hairball Mod\obj\Debug\Keplings Hairball Mod.AssemblyInfo.cs
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Keplings-Hairball-Mod\1.7\Source\Keplings Hairball Mod\obj\Debug\Keplings Hairball Mod.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Keplings-Hairball-Mod\1.7\Source\Keplings Hairball Mod\obj\Debug\Keplings Hairball Mod.sourcelink.json
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Keplings-Hairball-Mod\1.7\Source\Keplings Hairball Mod\obj\Debug\Keplings Hairball Mod.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Keplings-Hairball-Mod\1.7\Source\Keplings Hairball Mod\obj\Debug\refint\Keplings Hairball Mod.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Keplings-Hairball-Mod\1.7\Source\Keplings Hairball Mod\obj\Debug\Keplings Hairball Mod.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Keplings-Hairball-Mod\1.7\Source\Keplings Hairball Mod\obj\Debug\ref\Keplings Hairball Mod.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Keplings-Hairball-Mod\1.7\Source\Keplings Hairball Mod\obj\Debug\Keplings.ACBA617C.Up2Date
