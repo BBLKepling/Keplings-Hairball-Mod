@@ -44,6 +44,7 @@
 	      <li MayRequire="Erin.FluffyFauna">ERN_PallasCat</li>
 	      <li MayRequire="SM.SpiderMaoDie">SpiderMaoDie</li>
 	      <li MayRequire="TOLGRIM.Meowl.Race">Meowl_Race</li>
+	      <li MayRequire="DW.Glorp">Glorp</li>
         </catSmall>
         <catBig>
 	      <li>Cougar</li>
